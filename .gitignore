@@ -9,3 +9,7 @@ casting_data/
 
 **/__pycache__/
 *.pyd
+
+test/
+train/
+val/
