@@ -1,0 +1,40 @@
+{
+  "balanced_threshold": 0.0456334613263607,
+  "balanced_info": {
+    "threshold": 0.0456334613263607,
+    "acc": 0.6016260162601627,
+    "bal_acc": 0.6540032679738562,
+    "recall": 0.3472222222222222,
+    "specificity": 0.9607843137254902,
+    "tn": 49,
+    "fp": 2,
+    "fn": 47,
+    "tp": 25,
+    "selected_by": "specificity_constraint_fallback",
+    "min_anomaly_recall": 0.8,
+    "min_specificity": 0.75,
+    "mode": "specificity_guard"
+  },
+  "defect_sensitive_threshold": 0.03842219337821007,
+  "defect_sensitive_info": {
+    "threshold": 0.03842219337821007,
+    "acc": 0.6910569105691057,
+    "bal_acc": 0.6446078431372548,
+    "auc": 0.7058823529411765,
+    "recall": 0.9166666666666666,
+    "specificity": 0.37254901960784315,
+    "tn": 19,
+    "fp": 32,
+    "fn": 6,
+    "tp": 66,
+    "selected_by": "target_recall_0.90_max_specificity",
+    "target_recall": 0.9
+  },
+  "score_kwargs": {
+    "edge_margin_frac": 0.02,
+    "topk_ratio": 0.015,
+    "center_trim_frac": 0.13,
+    "smooth_kernel": 5,
+    "edge_min_weight": 0.1
+  }
+}

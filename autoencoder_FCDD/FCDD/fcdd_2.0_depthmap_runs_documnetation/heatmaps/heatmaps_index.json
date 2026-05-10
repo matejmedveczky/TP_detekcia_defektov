@@ -1,0 +1,167 @@
+[
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_37_png.rf.4ba7f7d320aca374694f1011fbd4aa72.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.2519664466381073,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_000_depth_good_RPi_CM3_37_png.rf.4ba7f7d320aca374694f1011fbd4aa72_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_000_depth_good_RPi_CM3_37_png.rf.4ba7f7d320aca374694f1011fbd4aa72_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_000_depth_good_RPi_CM3_37_png.rf.4ba7f7d320aca374694f1011fbd4aa72_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_000_depth_good_RPi_CM3_37_png.rf.4ba7f7d320aca374694f1011fbd4aa72_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_38_png.rf.d1fb6504776177bbdd8b21c892dc83be.jpg",
+    "true_label": "good",
+    "pred_label": "anomaly",
+    "score": 0.27818194031715393,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_001_depth_good_RPi_CM3_38_png.rf.d1fb6504776177bbdd8b21c892dc83be_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_001_depth_good_RPi_CM3_38_png.rf.d1fb6504776177bbdd8b21c892dc83be_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_001_depth_good_RPi_CM3_38_png.rf.d1fb6504776177bbdd8b21c892dc83be_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_001_depth_good_RPi_CM3_38_png.rf.d1fb6504776177bbdd8b21c892dc83be_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_60_png.rf.ff5d68ca5873fbf2303467b760c56e04.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.2306559830904007,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_002_depth_good_RPi_CM3_60_png.rf.ff5d68ca5873fbf2303467b760c56e04_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_002_depth_good_RPi_CM3_60_png.rf.ff5d68ca5873fbf2303467b760c56e04_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_002_depth_good_RPi_CM3_60_png.rf.ff5d68ca5873fbf2303467b760c56e04_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_002_depth_good_RPi_CM3_60_png.rf.ff5d68ca5873fbf2303467b760c56e04_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_68_png.rf.9f30e333c0a12ea75bdcabbb3b925cd5.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.25344982743263245,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_003_depth_good_RPi_CM3_68_png.rf.9f30e333c0a12ea75bdcabbb3b925cd5_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_003_depth_good_RPi_CM3_68_png.rf.9f30e333c0a12ea75bdcabbb3b925cd5_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_003_depth_good_RPi_CM3_68_png.rf.9f30e333c0a12ea75bdcabbb3b925cd5_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_003_depth_good_RPi_CM3_68_png.rf.9f30e333c0a12ea75bdcabbb3b925cd5_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_75_png.rf.e46aa0eb6dc0341033ddb1bfc1283e52.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.21882043778896332,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_004_depth_good_RPi_CM3_75_png.rf.e46aa0eb6dc0341033ddb1bfc1283e52_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_004_depth_good_RPi_CM3_75_png.rf.e46aa0eb6dc0341033ddb1bfc1283e52_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_004_depth_good_RPi_CM3_75_png.rf.e46aa0eb6dc0341033ddb1bfc1283e52_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_004_depth_good_RPi_CM3_75_png.rf.e46aa0eb6dc0341033ddb1bfc1283e52_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_76_png.rf.20a1e36a4aa56c7c7a282ff44960d2c4.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.2366442084312439,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_005_depth_good_RPi_CM3_76_png.rf.20a1e36a4aa56c7c7a282ff44960d2c4_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_005_depth_good_RPi_CM3_76_png.rf.20a1e36a4aa56c7c7a282ff44960d2c4_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_005_depth_good_RPi_CM3_76_png.rf.20a1e36a4aa56c7c7a282ff44960d2c4_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_005_depth_good_RPi_CM3_76_png.rf.20a1e36a4aa56c7c7a282ff44960d2c4_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_81_png.rf.61f659a0ee45069172001bfacbfd603d.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.20885619521141052,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_006_depth_good_RPi_CM3_81_png.rf.61f659a0ee45069172001bfacbfd603d_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_006_depth_good_RPi_CM3_81_png.rf.61f659a0ee45069172001bfacbfd603d_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_006_depth_good_RPi_CM3_81_png.rf.61f659a0ee45069172001bfacbfd603d_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_006_depth_good_RPi_CM3_81_png.rf.61f659a0ee45069172001bfacbfd603d_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\good\\depth_good_RPi_CM3_8_png.rf.85e65a8680897c00529806e67b5108e7.jpg",
+    "true_label": "good",
+    "pred_label": "good",
+    "score": 0.22086742520332336,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_007_depth_good_RPi_CM3_8_png.rf.85e65a8680897c00529806e67b5108e7_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_007_depth_good_RPi_CM3_8_png.rf.85e65a8680897c00529806e67b5108e7_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_007_depth_good_RPi_CM3_8_png.rf.85e65a8680897c00529806e67b5108e7_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\good\\good_007_depth_good_RPi_CM3_8_png.rf.85e65a8680897c00529806e67b5108e7_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_11_png.rf.ac991bc8ed54788045f8c90e189cc35a.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.3318888247013092,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_000_depth_bad_RPi_CM3_11_png.rf.ac991bc8ed54788045f8c90e189cc35a_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_000_depth_bad_RPi_CM3_11_png.rf.ac991bc8ed54788045f8c90e189cc35a_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_000_depth_bad_RPi_CM3_11_png.rf.ac991bc8ed54788045f8c90e189cc35a_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_000_depth_bad_RPi_CM3_11_png.rf.ac991bc8ed54788045f8c90e189cc35a_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_18_png.rf.415c6cc7025fc6e95b2d57e01437acd8.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.39304786920547485,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_001_depth_bad_RPi_CM3_18_png.rf.415c6cc7025fc6e95b2d57e01437acd8_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_001_depth_bad_RPi_CM3_18_png.rf.415c6cc7025fc6e95b2d57e01437acd8_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_001_depth_bad_RPi_CM3_18_png.rf.415c6cc7025fc6e95b2d57e01437acd8_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_001_depth_bad_RPi_CM3_18_png.rf.415c6cc7025fc6e95b2d57e01437acd8_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_20_png.rf.6f2975da61793d004020745961328ae1.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.4394211769104004,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_002_depth_bad_RPi_CM3_20_png.rf.6f2975da61793d004020745961328ae1_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_002_depth_bad_RPi_CM3_20_png.rf.6f2975da61793d004020745961328ae1_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_002_depth_bad_RPi_CM3_20_png.rf.6f2975da61793d004020745961328ae1_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_002_depth_bad_RPi_CM3_20_png.rf.6f2975da61793d004020745961328ae1_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_21_png.rf.d4b13c015ee80906042b6fbc71e6d4a3.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.3669985830783844,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_003_depth_bad_RPi_CM3_21_png.rf.d4b13c015ee80906042b6fbc71e6d4a3_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_003_depth_bad_RPi_CM3_21_png.rf.d4b13c015ee80906042b6fbc71e6d4a3_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_003_depth_bad_RPi_CM3_21_png.rf.d4b13c015ee80906042b6fbc71e6d4a3_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_003_depth_bad_RPi_CM3_21_png.rf.d4b13c015ee80906042b6fbc71e6d4a3_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_49_png.rf.285a89fd4de792ee85a2d3e8e7b866e1.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.3510083258152008,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_004_depth_bad_RPi_CM3_49_png.rf.285a89fd4de792ee85a2d3e8e7b866e1_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_004_depth_bad_RPi_CM3_49_png.rf.285a89fd4de792ee85a2d3e8e7b866e1_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_004_depth_bad_RPi_CM3_49_png.rf.285a89fd4de792ee85a2d3e8e7b866e1_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_004_depth_bad_RPi_CM3_49_png.rf.285a89fd4de792ee85a2d3e8e7b866e1_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_4_png.rf.820920cff5e80fa8f1cc8bfe02eae5cf.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.31692734360694885,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_005_depth_bad_RPi_CM3_4_png.rf.820920cff5e80fa8f1cc8bfe02eae5cf_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_005_depth_bad_RPi_CM3_4_png.rf.820920cff5e80fa8f1cc8bfe02eae5cf_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_005_depth_bad_RPi_CM3_4_png.rf.820920cff5e80fa8f1cc8bfe02eae5cf_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_005_depth_bad_RPi_CM3_4_png.rf.820920cff5e80fa8f1cc8bfe02eae5cf_overlay.png"
+  },
+  {
+    "file": "C:\\Users\\Jakub\\Desktop\\skola new\\T\u00edmov\u00fd projekt\\dataset_splits\\TP26_depthmap_fcdd_ready\\test\\anomaly\\depth_bad_RPi_CM3_74_png.rf.9fc7b2acac502084896be74627f10973.jpg",
+    "true_label": "anomaly",
+    "pred_label": "anomaly",
+    "score": 0.28982821106910706,
+    "threshold": 0.2689346969127655,
+    "panel": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_006_depth_bad_RPi_CM3_74_png.rf.9fc7b2acac502084896be74627f10973_panel.png",
+    "original": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_006_depth_bad_RPi_CM3_74_png.rf.9fc7b2acac502084896be74627f10973_original.png",
+    "heatmap": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_006_depth_bad_RPi_CM3_74_png.rf.9fc7b2acac502084896be74627f10973_heatmap.png",
+    "overlay": "runs\\fcdd_tp26_depthmap_v1\\heatmaps\\anomaly\\anomaly_006_depth_bad_RPi_CM3_74_png.rf.9fc7b2acac502084896be74627f10973_overlay.png"
+  }
+]
