@@ -37,14 +37,14 @@ C:\ae_fcdd\
 │       ├── bad1\
 │       ├── bad2\
 │       ├── ...
-│       └── bad6\
+│       └── bad4\
 └── test\
     ├── good\
     └── anomaly\
         ├── bad1\
         ├── bad2\
         ├── ...
-        └── bad6\
+        └── bad4\
 ```
 
 Dôležité poznámky:
