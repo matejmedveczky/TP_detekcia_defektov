@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['defect']
+
+roboflow:
+  workspace: hemorrhagesegmentation
+  project: tp26_plastic_v1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hemorrhagesegmentation/tp26_plastic_v1/dataset/1
