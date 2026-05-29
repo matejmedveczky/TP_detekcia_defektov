@@ -1,21 +1,3 @@
-## Návod na použitie
-### Klonovanie
-```bash
-cd lokalny priecinok
-git clone https://github.com/MatejMedveczky/TP_detekcia_defektov.git
-cd TP_detekcia_defektov
-git switch -c VHODNY_NAZOV_BRANCH //priezvisko, pripadne nazov ulohy
-```
-### Prvý commit
-```bash
-git add .
-git commit -m "POPIS ZMENY"
-git push -u origin <VHODNY_NAZOV_BRANCH>
-```
-### Dalšie commity
-Skontroluj či si v správnej branchi
-```bash
-git add .
-git commit -m "POPIS ZMENY"
-git push
-```
+## Klasifikácia a detekcia defektov metódami UI
+
+Tímový projekt sa zaoberá klasifikáciou a detekciou defektov na obrazových dátach podložiek pomocou metód umelej inteligencie. Cieľom práce bolo pripraviť datasety, spracovať anotácie defektov a experimentálne porovnať viacero prístupov vhodných na vizuálnu kontrolu kvality. V práci boli použité konvolučné neurónové siete na klasifikáciu snímok, detekčný model YOLO na lokalizáciu defektov, metóda FCDD na detekciu anomálií a autoenkóder ako ďalší prístup k odhaľovaniu odchýlok od bezdefektných vzoriek. Súčasťou riešenia bolo rozdelenie dát na trénovacie, validačné a testovacie dáta, aplikovanie augmentácií a vyhodnotenie modelov pomocou metrík presnosti, úplnosti, F1 skóre, mAP a kontingenčných matíc. Výsledky ukázali rozdiely medzi klasifikačnými, detekčnými a anomálnymi prístupmi pri práci s kovovými, plastovými a hĺbkovými dátami. Projekt poskytuje prehľad praktických možností využitia neurónových sietí pri automatizovanej kontrole defektov a poukazuje na význam kvality datasetu, správnych anotácií a vhodne zvoleného vyhodnocovania.
