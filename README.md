@@ -16,9 +16,9 @@ Dáta a modely v tomto priečinku sú organizované nasledovne:
   * Trénovanie modelu založeného na architektúre **ResNet18** s využitím transfer learningu v prostredí PyTorch.
   * Následnú inferenciu a evaluáciu na testovacích sadách (výpočet presnosti, generovanie matice zámien a classification reportu).
   * Vizualizáciu aktivačných máp pomocou techniky **Grad-CAM**, ktorá formou heatmapy ukazuje, na aké časti obrázka sa model pri rozhodovaní sústredil.
-* **`plastove.ipynb`** **
+* **`plastove.ipynb`**
   Obsahuje kompletný cyklus pre prácu s plastovými podložkami. Tento kód je **mierne odlišný** a optimalizovaný pre špecifiká plastového povrchu.
-* **`plastove.ipynb`** **
+* **`plastove.ipynb`**
   * Využíva rovnakú architektúru a pipeline ako **`cnn_defect_classification.ipynb`**.
 ---
 
