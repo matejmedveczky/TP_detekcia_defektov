@@ -7,7 +7,7 @@ Dáta a modely v tomto priečinku sú organizované nasledovne:
 * **`models/`** - Výstupy z trénovania. Obsahuje uložené váhy natrénovaných modelov.
 * **`TP26_plastic_v1/`** - Spracované a pripravené datasety pre trénovanie, validáciu a testovanie. Obsahuje `train/`, `val/` a `test/` zložky, v ktorých sú obrázky rozdelené do podzložiek podľa jednotlivých tried. Dataset pre plastové podložky.
 * **`data/`** - Spracované a pripravené datasety pre trénovanie, validáciu a testovanie. Obsahuje `train/`, `val/` a `test/` zložky, v ktorých sú obrázky rozdelené do podzložiek podľa jednotlivých tried. Dataset pre depth mapu.
-## Popis súborov (.ipynb / .py)
+## Popis súborov
 
 ### 1. Príprava a Trénovanie Klasifikácie
 * **`cnn_defect_classification.ipynb`**
