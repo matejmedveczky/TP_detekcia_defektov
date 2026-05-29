@@ -9,7 +9,7 @@ Dáta a modely v tomto priečinku sú organizované nasledovne:
 * **`data/`** - Spracované a pripravené datasety pre trénovanie, validáciu a testovanie. Obsahuje `train/`, `val/` a `test/` zložky, v ktorých sú obrázky rozdelené do podzložiek podľa jednotlivých tried. Dataset pre depth mapu.
 ## Popis súborov
 
-### 1. Príprava a Trénovanie Klasifikácie
+### Príprava a Trénovanie Klasifikácie
 * **`cnn_defect_classification.ipynb`**
   Obsahuje plný cyklus pre prácu s klasifikáciou defektov. Zahŕňa:
   * Načítanie dát a aplikáciu augmentácií (rotácie, prevrátenia, zmena veľkosti na 224x224).
