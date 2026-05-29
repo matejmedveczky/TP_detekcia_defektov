@@ -17,7 +17,7 @@ Dáta a modely v tomto priečinku sú organizované nasledovne:
   * Následnú inferenciu a evaluáciu na testovacích sadách (výpočet presnosti, generovanie matice zámien a classification reportu).
   * Vizualizáciu aktivačných máp pomocou techniky **Grad-CAM**, ktorá formou heatmapy ukazuje, na aké časti obrázka sa model pri rozhodovaní sústredil.
 * **`plastove.ipynb`**
-  Obsahuje kompletný cyklus pre prácu s plastovými podložkami. Tento kód je **mierne odlišný** a optimalizovaný pre špecifiká plastového povrchu.
+  * Obsahuje kompletný cyklus pre prácu s plastovými podložkami. Tento kód je **mierne odlišný** a optimalizovaný pre špecifiká plastového povrchu.
 * **`depth.ipynb`**
   * Využíva rovnakú architektúru a pipeline ako **`cnn_defect_classification.ipynb`**.
 ---
